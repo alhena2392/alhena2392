@@ -1,16 +1,66 @@
-## Hi there 👋
 
-<!--
-**alhena2392/alhena2392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tunahan 👋
 
-Here are some ideas to get you started:
+💻 Aspiring Full-Stack Developer  
+🎓 Electrical & Electronics Student  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I am a student developer currently learning and improving my skills in software development.
+
+I am still a beginner in all the technologies I use and actively working to improve every day.  
+My main goal is to become a strong Full-Stack Developer in the future.
+
+---
+
+## 🛠️ Currently Learning
+
+**Languages**
+- Python (Beginner)
+- JavaScript (Beginner)
+- C / C++ (Beginner)
+
+**Backend**
+- Flask (Beginner)
+- FastAPI (Beginner)
+
+**Frontend**
+- HTML (Beginner)
+- CSS (Beginner)
+
+**Other**
+- Git & GitHub
+- Basic Linux
+- Arduino & Embedded Systems (Learning Level)
+
+---
+
+## 🎯 Goals
+
+- Become a Full-Stack Developer
+- Build real-world projects
+- Improve problem-solving skills
+- Learn software architecture fundamentals
+
+---
+
+## 📌 Focus Areas
+
+- Backend Development
+- Web Technologies
+- Embedded Systems
+- System Design (Fundamentals)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/YOUR_USERNAME
