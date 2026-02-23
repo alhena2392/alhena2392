@@ -55,12 +55,6 @@ My main goal is to become a strong Full-Stack Developer in the future.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alhena2392&show_icons=true)
-
----
-
 ## 📫 Contact
 
 - GitHub: https://github.com/alhena2382
