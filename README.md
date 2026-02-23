@@ -58,4 +58,4 @@ My main goal is to become a strong Full-Stack Developer in the future.
 ## 📫 Contact
 
 - GitHub: https://github.com/alhena2382
-- Discord : tqnahan / discord.gg/ehGhnUjDPs
+- Discord : tqnahan / ehGhnUjDPs
